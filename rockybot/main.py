@@ -10,7 +10,7 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.runnables import RunnablePassthrough
 
-GOOGLE_API_KEY = "AIzaSyAX9byEmAvQvhgokEYNZaa6Hh9tPxFL0Zc"
+GOOGLE_API_KEY = "YOUR API KEY"
 
 st.set_page_config(page_title="RockyBot", page_icon="📈")
 st.title("RockyBot: News Research Tool 📈")
